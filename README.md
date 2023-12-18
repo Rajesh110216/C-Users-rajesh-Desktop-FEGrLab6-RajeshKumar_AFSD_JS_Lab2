@@ -7,13 +7,16 @@ User can select an option out of the given four options. In case the user select
 After all the questions have been answered display the score of the user along with the total percentage of correctly answered questions out of the all questions displayed.
 
 =======================================================
+
 Language used:
 HTML, CSS, Javascript
 
 =======================================================
+
 Details of questions:
 Type of question: MCQ
 Form of question: Text
 Options: 4
 Correct answer: only one out of four options
+
 =======================================================
